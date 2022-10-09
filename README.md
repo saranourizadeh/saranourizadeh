@@ -19,7 +19,6 @@ You can click the Preview link to take a look at your changes.
   <a href="https://www.linkedin.com/in/sara-nourizadeh-datascientist">
       <img src="https://img.shields.io/badge/LinkedIn-in-1EAEDB.svg">
   </a>
-  <a href="https://www.paypal.me/AmitMerchant">
-    <img src="https://img.shields.io/badge/$-donate-ff69b4.svg?maxAge=2592000&amp;style=flat">
+  
   </a>
 </p>
