@@ -9,7 +9,7 @@ saranourizadeh/saranourizadeh is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --
 
-\
+
 <p align="center">
   <a href="https://badge.fury.io/js/electron-markdownify">
     <img src="https://badge.fury.io/js/electron-markdownify.svg"
