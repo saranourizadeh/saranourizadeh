@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
     <img src="https://badge.fury.io/js/electron-markdownify.svg"
          alt="Gitter">
   </a>
-  <a href="https://gitter.im/amitmerchant1990/electron-markdownify"><img src="https://badges.gitter.im/amitmerchant1990/electron.svg"></a>
+  <a href="https://gitter.im/amitmerchant1990/electron-markdownify"><img src="https://badges.gitter.im/I.svg"></a>
   <a href="https://www.linkedin.com/in/sara-nourizadeh-datascientist">
       <img src="https://img.shields.io/badge/LinkedIn-in-1EAEDB.svg">
   </a>
