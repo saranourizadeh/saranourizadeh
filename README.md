@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @saranourizadeh
 - 👀 I’m interested in Data scientist!
-- 🌱 I’m currently learning Github, Deep Learning, Pytorch ,...
+- 🌱 I’m currently learning cloud computing, LLMs, analysis...
 - 💞️ I’m looking to collaborate on Data Science project.
 - 📫 How to reach me : just mail me:) -> Saranourizadeh75@gmail.com
 
